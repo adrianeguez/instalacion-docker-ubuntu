@@ -20,7 +20,7 @@ Abrir el siguiente link y descargar el paquete más actual de `docker`:
 
 1. Link Docker CE artful: [DOCKER CE ARTFUL](https://download.docker.com/linux/ubuntu/dists/artful/pool/stable/amd64/)
 
-** Si necesitas otra version puedes buscarla [AQUI](https://download.docker.com/linux/ubuntu/dists/) dentro de las carpetas `pool > stable > arquitectura (amd65) > .deb`
+** Si necesitas otra version puedes buscarla [AQUI](https://download.docker.com/linux/ubuntu/dists/) dentro de las carpetas `pool > stable > arquitectura (amd64) > .deb`
 
 2. Instalar el paquete `.deb` mediante `Ubuntu software`
 
