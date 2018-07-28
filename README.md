@@ -10,7 +10,7 @@ $ sudo apt install docker.io
 
 ## Seguir las instrucciones oficiales en docker ce
 
-Seguir las instrucciones de Docker Fuente: [DOCKER CE FOR UBUNTU](https://docs.docker.com/install/linux/docker-ce/ubuntu/#prerequisites)
+Seguir las instrucciones de Docker Fuente: [DOCKER EE FOR UBUNTU](https://docs.docker.com/install/linux/docker-ee/ubuntu/)
 
 ## Instalar docker-ce manualmente
 
